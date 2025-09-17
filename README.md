@@ -34,10 +34,23 @@
 
 ## 📌 Featured Projects  
 
-- 🔹 [**Customer Onboarding Portal**](#) – Reduced signup time by 50% with Next.js + Laravel  
-- 🔹 [**Search API Optimization**](#) – Improved query speed 3x using Elasticsearch  
-- 🔹 [**Banking Dashboard**](#) – Boosted transaction productivity by 30%  
-- 🔹 [**Test Engine Application**](#) – Built Teacher, Student & Admin modules  
+- 🔹 [**Next.js AI Chatbot**](https://github.com/HrachK777/nextjs-ai-chatbot)  
+  AI-powered chatbot built with **Next.js** and **OpenAI API** for intelligent conversations.  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+- 🔹 [**AI Chatbot Framework**](https://github.com/HrachK777/AI-chatbot-framework)  
+  Reusable framework for building **custom AI chatbots** across platforms.  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+- 🔹 [**MERN Stack E-commerce App**](https://github.com/HrachK777/MERN-Stack-Ecommerce-App)  
+  Full-stack **e-commerce platform** using **MongoDB, Express, React, Node.js**.  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+- 🔹 [**Freelancer Account Generation Extension**](https://github.com/HrachK777/extension-freelancer-account-generation)  
+  Chrome extension for **automating freelancer account creation**, improving productivity.  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?logo=google-chrome&logoColor=white)
+
+
 
 ---
 
